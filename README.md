@@ -1,0 +1,1 @@
+gui-AWR1642-SDK
